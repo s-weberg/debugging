@@ -1,0 +1,40 @@
+.main {
+    display: flex;
+    align-items: left;
+    justify-self: center;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+}
+
+.container {
+   max-width: 900px;
+   width: 100%;
+}
+
+.headline {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: rgb(89, 11, 120);
+}
+
+.subheadline {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.info {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.list {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
